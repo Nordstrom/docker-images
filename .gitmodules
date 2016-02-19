@@ -1,0 +1,33 @@
+[submodule "docker-baseimage-ubuntu"]
+	path = docker-baseimage-ubuntu
+	url = https://github.com/Nordstrom/docker-baseimage-ubuntu.git
+[submodule "docker-python"]
+	path = docker-python
+	url = https://github.com/Nordstrom/docker-python.git
+[submodule "docker-awscli"]
+	path = docker-awscli
+	url = https://github.com/Nordstrom/docker-awscli.git
+[submodule "docker-java"]
+	path = docker-java
+	url = https://github.com/Nordstrom/docker-java.git
+[submodule "docker-gocd"]
+	path = docker-gocd
+	url = https://github.com/Nordstrom/docker-gocd.git
+[submodule "docker-nginx"]
+	path = docker-nginx
+	url = https://github.com/Nordstrom/docker-nginx.git
+[submodule "docker-ruby"]
+	path = docker-ruby
+	url = https://github.com/Nordstrom/docker-ruby.git
+[submodule "docker-route53reg"]
+	path = docker-route53reg
+	url = https://github.com/Nordstrom/docker-route53reg.git
+[submodule "docker-confluent-platform"]
+	path = docker-confluent-platform
+	url = https://github.com/Nordstrom/docker-confluent-platform.git
+[submodule "docker-consul"]
+	path = docker-consul
+	url = https://github.com/Nordstrom/docker-consul.git
+[submodule "docker-vault"]
+	path = docker-vault
+	url = https://github.com/Nordstrom/docker-vault.git
